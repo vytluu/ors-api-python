@@ -1,4 +1,4 @@
-# Using Openrouteservice API with Python 
+# Using Openrouteservice Matrix API with Python 
 
 This repository contains a python script that uses the Openrouteservice Matrix API to find the distances and durations (estimated travel times) between multiple sources to multiple destinations.
 
